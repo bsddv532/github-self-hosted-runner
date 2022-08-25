@@ -1,7 +1,7 @@
 name: Github Self Hosted Runners Example
 
 env:
-  EmployeeName: "Deepak Pradhan"
+  EmployeeName: "Deepak Kumar Pradhan"
   Message: "Welcome to the CloudEQ"
 
 on: 
