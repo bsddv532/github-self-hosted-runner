@@ -25,4 +25,5 @@ jobs:
         echo "In self hosted runner"
         echo "Hello $EmployeeName"
         echo $Message
+        echo "Adding windows runner"
 
