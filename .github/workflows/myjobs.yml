@@ -35,5 +35,10 @@ jobs:
     - name: Run a one-line script 
       run: echo ${{ secrets.MyImpMessage}}
 
+    - name: Run a multi-line script
+      run: |
+        echo "In ubuntu-latest runner"
+        echo ${{ secrets.MyImpMessage}}
+
     
 
